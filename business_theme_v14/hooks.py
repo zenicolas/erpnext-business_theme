@@ -9,8 +9,8 @@ app_color = "grey"
 app_license = "MIT"
 app_logo_url = "/assets/business_theme_v14/img/slogo.png"
 website_context = {
-	"favicon": "/assets/business_theme_v14/img/logo.png",
-	"splash_image": "/assets/business_theme_v14/img/slogo.png",
+	"favicon": "/assets/business_theme_v14/img/slogo.png",
+	"splash_image": "/assets/business_theme_v14/img/logo.png",
 }
 # Includes in <head>
 # ------------------

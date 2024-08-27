@@ -7,7 +7,7 @@ app_description = "Business Theme for ERPNext / Frappe"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_license = "MIT"
-app_logo_url = "/assets/business_theme_v14/img/slogo.jpg"
+app_logo_url = "/assets/business_theme_v14/img/slogo.png"
 website_context = {
 	"favicon": "/assets/business_theme_v14/img/logo.png",
 	"splash_image": "/assets/business_theme_v14/img/slogo.png",
